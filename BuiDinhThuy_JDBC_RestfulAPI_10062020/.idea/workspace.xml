@@ -1,0 +1,1440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="unnamed" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7747d0d4-90cb-48f5-b3f1-afd748a1373f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/controller/GetByIdPrductCotrller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/BuiDinhThuy_JDBC_Web_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Tomcat_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_8_0_15.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BuiDinhThuy_JDBC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BuiDinhThuy_JDBC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/RELEASE-NOTES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/ReadJSON/ConvertByJSON.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/catalina.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/ciphers.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/configtest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/digest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/service.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/setclasspath.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/shutdown.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/startup.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/tomcat-juli.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/tool-wrapper.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/bin/version.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/controller/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/dao/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/dao/ProductDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/annotations-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/ecj-4.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-de.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-es.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-fr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-ja.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-ko.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-ru.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-03.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-04.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-11.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-12.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-13.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-14.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-15.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-16.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-17.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-18.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-19.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-20.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-23.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-26.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-28.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-05-31.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-06-02.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-06-05.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/logs/localhost_access_log.2020-06-09.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/service/ProductService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/temp/debugger-agent-storage7225236247516767662jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/temp/debugger-agent-storage8349842166979999846jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/tomcat.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/asf-logo-wide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/bg-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/bg-middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/bg-nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/bg-upper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/tomcat-power.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/tomcat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/tomcat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/ROOT/tomcat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/BUILDING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/RUNNING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/aio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/annotationapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/build.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/processes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/docs/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/sample.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/src/mypackage/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/web/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/web/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/sample/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/appdev/web.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/apr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/requestProcess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/requestProcess/authentication-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/requestProcess/request-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/startup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/startup/serverStartup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/architecture/startup/serverStartup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/balancer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/building.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/cgi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/class-loader-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/cluster-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/ajp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/automatic-deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-channel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-deployer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-interceptor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-listener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-receiver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-sender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster-valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cluster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/context.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/cookie-processor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/credentialhandler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/engine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/executor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/globalresources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/host.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/http.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/http2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/jar-scan-filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/jar-scanner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/jaspic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/listeners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/resources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/sessionidgenerator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/systemprops.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/config/valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/connectors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/default-servlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/deployer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/elapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/extras.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-admin-apps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-admin-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-admin-opers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-jdbc-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-jndi-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/fs-memory-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/funcspecs/mbean-names.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/html-host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/html-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/cors-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/design.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/docs-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/docs.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fix.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans400italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans600.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans600italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/OpenSans700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/tomcat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/update.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/images/void.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jasper-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jaspicapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jdbc-pool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jndi-datasource-examples-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jndi-resources-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/jspapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/logging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/maven-jars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/mbeans-descriptors-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/mbeans-descriptors.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/monitoring.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/proxy-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/realm-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/rewrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/security-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/security-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/servletapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/ssi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/ssl-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/interceptors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/tribes/transport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/virtual-hosting-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/web-socket-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/websocketapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/windows-auth-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/docs/windows-service-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/CookieExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/CookieExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/HelloWorldExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/HelloWorldExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_ko.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_pt.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/LocalStrings_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestHeaderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestHeaderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestInfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestInfoExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestParamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/RequestParamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/ServletToJsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/ServletToJsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/SessionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/SessionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Async3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/AsyncStockContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/AsyncStockContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Stockticker$Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Stockticker$TickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Stockticker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/async/Stockticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/Entries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/Entries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/TableBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/cal/TableBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/checkbox/CheckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/checkbox/CheckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/colors/ColorGameBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/colors/ColorGameBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/dates/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/dates/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/error/Smart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/error/Smart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/FooTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/FooTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/LogTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/LogTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/ValuesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/examples/ValuesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/filters/ExampleFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/filters/ExampleFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/listeners/ContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/listeners/ContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/listeners/SessionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/listeners/SessionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/num/NumberGuessBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/num/NumberGuessBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/sessions/DummyCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/sessions/DummyCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/util/CookieFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/util/CookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/util/HTMLFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/util/HTMLFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/validators/DebugValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/validators/DebugValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/echo/servers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/jsp/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/jsp/debug-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/jsp/example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/tags/displayProducts.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/tags/helloWorld.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/tags/panel.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/async1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/async1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/async3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/async3.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/async/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/Entries.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/Entry.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/JspCalendar.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/TableBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/cal1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/cal1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/cal2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/cal2.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/cal/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/checkbox/CheckTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/checkbox/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/checkbox/checkresult.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/checkbox/checkresult.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/checkbox/cresult.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/colors/ColorGameBean.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/colors/clr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/colors/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/colors/colrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/colors/colrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/dates/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/dates/date.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/dates/date.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/er.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/err.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/err.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/errorpge.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/error/errorpge.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/forward.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/forward.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/fwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/one.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/one.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/forward/two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/inc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/include/include.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/ValuesBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/ValuesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-arithmetic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-comparisons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/composite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/composite.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/composite.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/functions.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/functions.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/implicit-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/implicit-objects.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/el/implicit-objects.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/FooBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/jspattribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/basic.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/basic.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/svgexample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/textRotate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/textRotate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/textRotate.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/jspx/textRotate.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/coda.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/coda.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/config.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/config.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/dynamicattrs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/prelude.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/misc/prelude.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/BookBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/book.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/book.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/repeat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/repeat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/simpletag/repeat.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/panel.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/panel.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/panel.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/products.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsp2/tagfiles/products.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/ServletToJsp.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/jsptoserv/jts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/num/numguess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/num/numguess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/num/numguess.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/plugin/applet/Clock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/plugin/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/plugin/plugin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/plugin/plugin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/plugin/plugin.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/error.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/security/protected/login.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/sessions/DummyCart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/sessions/carts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/sessions/carts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/sessions/carts.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/sessions/crt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/simpletag/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/simpletag/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/simpletag/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/snp/snoop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/snp/snoop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/snp/snoop.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/choose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/choose.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/choose.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/foreach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/foreach.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/foreach.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/if.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/if.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/if.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/tagplugin/notes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/xml/xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/xml/xml.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/jsp/xml/xml.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/nonblocking/bytecounter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/reqheaders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/reqinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/reqparams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/servlets/sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/websocket/chat.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/websocket/drawboard.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/websocket/echo.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/websocket/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/examples/websocket/snake.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/host-manager/manager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/connectorCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/connectorTrustedCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/jsp/sessionsList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/status.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/manager/xform.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/META-INF/war-tracker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/classes/com/servlets/ServletDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/classes/controller/admin/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/classes/controller/web/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/classes/model/UserModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/admin/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/admin/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/admin/menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/taglib.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/web/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/common/web/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/decorators/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/decorators/web.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/admin/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/admin/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/admin/menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/taglib.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/web/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/common/web/header.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/decorators/admin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/decorators/web.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/avatar5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/profile-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/avatars/user.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ace-ie.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ace-part2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ace-rtl.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ace.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap-datetimepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap-duallistbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap-editable.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap-multiselect.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap-timepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/chosen-sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/chosen-sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/chosen.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/colorbox.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/colorpicker.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/colorpicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/datepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/daterangepicker.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/dropzone.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/fullcalendar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/controls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/loading_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/meteorshower2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/images/pattern.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/img/alpha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/img/hue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/img/saturation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/jquery-ui.custom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/jquery.gritter.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/jquery.toast.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/prettify.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/realestate_admin_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/select2-spinner.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/select2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/select2x2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ui.jqgrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/css/ui.jqgrid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.1.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.1.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.1.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.1.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.1.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.2.0/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.2.0/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.2.0/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.2.0/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/font-awesome/4.2.0/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/fonts/fonts.googleapis.com.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/email1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/email2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/email3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/email4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/image-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/gallery/thumb-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/homeadmin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/spritemap.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/images/spritemap@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/img/clear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/img/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/ace-editable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/ace-elements.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/ace-extra.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/ace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/additional-methods.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootbox.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-colorpicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-datepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-datetimepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-editable.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-markdown.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-multiselect.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-tag.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-timepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap-wysiwyg.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/chosen.jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/dataTables.colVis.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/dataTables.tableTools.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/daterangepicker.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/dropzone.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/BuiDinhThuy_JDBC_Web_exploded/WEB-INF/classes/webapps/servlet_war/servlet/WEB-INF/classes/template/admin/assets/js/excanvas.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/service/ProductService.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#828#829#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dao/ConnectDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ReadJSON/ConvertByJSON.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dao/ProductDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/controller/GetByIdPrductCotrller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/model/Product.java" />
+        <option value="$PROJECT_DIR$/src/ReadJSON/ConvertByJSON.java" />
+        <option value="$PROJECT_DIR$/src/service/ProService.java" />
+        <option value="$PROJECT_DIR$/src/dao/ProductDAO.java" />
+        <option value="$PROJECT_DIR$/src/dao/ConnectDB.java" />
+        <option value="$PROJECT_DIR$/src/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/service/ProductService.java" />
+        <option value="$PROJECT_DIR$/src/controller/GetByIdPrductCotrller.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Products_JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuiDinhThuy_JDBC_RestfulAPI_10062020" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Products_JDBC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuiDinhThuy_JDBC_RestfulAPI_10062020" type="462c0819:PsiDirectoryNode" />
+              <item name="com.google.gson_2.2.4.v201311231704.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysql-connector-java-8.0.15.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15876436" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.0.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.47" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="unnamed">
+          <settings>
+            <option name="CONTEXT_PATH" value="/unnamed" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_551_Products_JDBC_3" />
+      </server-settings>
+      <log_file alias="Tomcat Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/manager.*" />
+      <log_file alias="Tomcat Host Manager Log" path="%IDEA_RUN:CATALINA_BASE%/logs/host-manager.*" />
+      <log_file alias="Tomcat Localhost Access Log" path="%IDEA_RUN:CATALINA_BASE%/logs/localhost_access_log.*" />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50346" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="unnamed" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.47" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_Products_JDBC" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50346" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7747d0d4-90cb-48f5-b3f1-afd748a1373f" name="Default Changelist" comment="" />
+      <created>1591612740454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591612740454</updated>
+      <workItem from="1591612744872" duration="1579000" />
+      <workItem from="1591671476725" duration="11879000" />
+      <workItem from="1591688333743" duration="158000" />
+      <workItem from="1591688519593" duration="11055000" />
+      <workItem from="1591754411114" duration="1524000" />
+      <workItem from="1591846892292" duration="4828000" />
+      <workItem from="1591859912061" duration="304000" />
+      <workItem from="1591860753477" duration="2645000" />
+      <workItem from="1591868302980" duration="1604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="35576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6467742" visible="true" weight="0.18123667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="2" sideWeight="0.3532258" side_tool="true" weight="0.39824945" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Learn" order="5" weight="0.32995737" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290461" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6268657" visible="true" weight="0.39228296" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37942123" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.37313432" side_tool="true" weight="0.39228296" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" sideWeight="0.49946696" weight="0.31404072" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49946696" weight="0.3290461" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.15405117" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58dfc1a0-65bc-4b2d-9968-55891b5cac20/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/Statement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1273">
+          <caret line="64" column="14" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/javax.servlet.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1300">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuiDinhThuy_JDBC.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/sql/ResultSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4425">
+          <caret line="203" column="56" selection-start-line="203" selection-start-column="56" selection-end-line="203" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/mysql-connector-java-8.0.15.jar!/com/mysql/cj/jdbc/exceptions/SQLError.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="92" column="34" lean-forward="true" selection-start-line="92" selection-start-column="34" selection-end-line="92" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ideaLibSources/mysql-connector-java-8.0.15-sources.jar!/com/mysql/cj/jdbc/exceptions/SQLError.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="99" selection-start-line="99" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="1148" selection-start-line="1148" selection-end-line="1148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/63258b01-b40b-46a6-80a1-a88c74932fb5/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#828#829#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/ProductDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/service/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/GetByIdPrductCotrller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReadJSON/ConvertByJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/ConnectDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="53" lean-forward="true" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>unnamed</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Detection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>src</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BuiDinhThuy_JDBC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.google.gson_2.2.4.v201311231704</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
